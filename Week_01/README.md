@@ -25,11 +25,11 @@
 积极寻求主动反馈，不要只是等待老师的code review
 
 ## 切题四件套
-### Clarification
-### Possible Solution
-1.compare (time/space)
-2.optimal
-### Coding
-### Test cases
+### 1.Clarification
+### 2.Possible Solution
+A.compare (time/space) 
+B.optimal
+### 3.Coding
+### 4.Test cases
 
 
