@@ -72,12 +72,12 @@ def BFS(graph, start, end): <br/>
 3. 能够通过索引访问（index accessible)<br/>
 
 #### 模版
-left, right = 0, len(array) - 1
-while left <= right:
-    mid = (left + right) / 2
-    if array[mid] == target: # find the target!! 
-        break or return result 
-    elif array[mid] < target:
-        left = mid + 1
-    else:
-        right = mid - 1
+left, right = 0, len(array) - 1<br/>
+while left <= right:<br/>
+    mid = (left + right) / 2<br/>
+    if array[mid] == target: # find the target!! <br/>
+        break or return result <br/>
+    elif array[mid] < target:<br/>
+        left = mid + 1<br/>
+    else:<br/>
+        right = mid - 1<br/>
