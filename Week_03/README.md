@@ -78,6 +78,6 @@ while left <= right:
     if array[mid] == target: # find the target!! 
         break or return result 
     elif array[mid] < target:
-    l   eft = mid + 1
+        left = mid + 1
     else:
         right = mid - 1
