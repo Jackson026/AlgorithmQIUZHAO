@@ -8,28 +8,28 @@
 
 ## 摒弃旧习惯
 ### 五毒神掌（一道题至少过五遍，并且经常翻阅国际站的优秀代码，模仿学习）
-1.读题+思考；直接看解法；背诵默写
-2.马上写并提交leetcode；多种解法比较并优化
-3.过一天后重复做题；专项练习
-4.一周后回来，反复练习相同题目
-5.面试前一周恢复性训练
+1. 读题+思考；直接看解法；背诵默写
+2. 马上写并提交leetcode；多种解法比较并优化
+3. 过一天后重复做题；专项练习
+4. 一周后回来，反复练习相同题目
+5. 面试前一周恢复性训练
 ### 5分钟思考，无思路直接看题解
 ### 切记不要死磕一道题，效率低下
 
 ## 学习方法
-### 1.Chunk it up  切碎知识点
+#### Chunk it up  切碎知识点
 把每一个知识点理解透彻
-### 2.Deliberate Practicing  刻意练习
+#### Deliberate Practicing  刻意练习
 把不熟练的知识点重读练习，克服弱点
-### 3.Feedback  反馈 
+#### Feedback  反馈 
 积极寻求主动反馈，不要只是等待老师的code review
 
 ## 切题四件套
-### 1.Clarification
-### 2.Possible Solution
-A.compare (time/space) 
+1. Clarification
+2. Possible Solution<br/>
+A.compare (time/space) <br/>
 B.optimal
-### 3.Coding
-### 4.Test cases
+3. Coding
+4. Test cases
 
 
