@@ -1,4 +1,4 @@
-学习笔记
+# 学习笔记
 ## 双向BFS
 1 给end和begin两个set，判断时两个queue都要判断<br/>
 2 begin和end会按照长度互换，从长度短的set进行扩散<br/>
